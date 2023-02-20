@@ -8,9 +8,9 @@
 <p>I plan to help others through the power of education and knowledge to yield equality, respect, and opportunities.<p>
  
 ### TECHNOLOGIES
-![image](https://user-images.githubusercontent.com/119072440/220210941-8226ae3e-eb98-4f03-8079-fe636fcb450b.png)
-![image](https://user-images.githubusercontent.com/119072440/220210968-73884a71-8f79-4d68-ad22-96308d8481ad.png)
-![image](https://user-images.githubusercontent.com/119072440/220211217-86687297-94b5-416c-b71c-a44f531eb3ec.png)
+![image](https://user-images.githubusercontent.com/119072440/220211590-204079de-48e1-436f-be32-545804c41117.png)
+![image](https://user-images.githubusercontent.com/119072440/220211470-213cffce-e7ac-41f8-9f82-006e56ac69d2.png)
+![image](https://user-images.githubusercontent.com/119072440/220211372-43d4e8e7-b6ac-4692-92dc-0c82633d6f13.png)
 
 <p>JavaScript, Node.js, CSS, Pug, TypeScript, Python, Tkinter<p>
 <p>React.js, HTML, Express.js, Nest.js, Koa.js, JWT, Java, C, C++. C#<p>
