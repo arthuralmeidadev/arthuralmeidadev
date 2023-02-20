@@ -10,7 +10,7 @@
 ### TECHNOLOGIES
 ![image](https://user-images.githubusercontent.com/119072440/220210941-8226ae3e-eb98-4f03-8079-fe636fcb450b.png)
 ![image](https://user-images.githubusercontent.com/119072440/220210968-73884a71-8f79-4d68-ad22-96308d8481ad.png)
-![image](https://user-images.githubusercontent.com/119072440/220211049-af06e3a5-0fdb-494d-84be-436dd8384d81.png)
+![image](https://user-images.githubusercontent.com/119072440/220211217-86687297-94b5-416c-b71c-a44f531eb3ec.png)
 
 <p>JavaScript, Node.js, CSS, Pug, TypeScript, Python, Tkinter<p>
 <p>React.js, HTML, Express.js, Nest.js, Koa.js, JWT, Java, C, C++. C#<p>
