@@ -5,8 +5,10 @@ I'm experienced with UX and have skills to work with art and graphic design.
 ### TECHNOLOGIES
 JavaScript, Node.js, CSS, Pug, TypeScript, Python, Tkinter, React.js, HTML, Express.js, Nest.js, Koa.js, JWT, Java, C, C++. C#
 ### SKILLS
-I can speak 3 languages: English, Portuguese, and Japanese
+Main Programming Languages: Javascript, Python and C
+Can speak: English, Portuguese, and Japanese
 ### CONTACT INFO
+https://www.linkedin.com/in/arthuralmeidadev/
 
 <!--
 **arthuralmeidadev/arthuralmeidadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
