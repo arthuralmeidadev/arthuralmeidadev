@@ -3,9 +3,9 @@
 <p>I'm experienced with UX and have skills to work with art and graphic design.<p>
  
 ### GOALS
-<pre>I dream of using my skills to change the environment around me for the better.
-I believe with technology, we can advance not just science, but civilization as a whole.
-I plan to help others through the power of education and knowledge to yield equality, respect, and opportunities.<pre>
+<p>I dream of using my skills to change the environment around me for the better.<p>
+<p>I believe with technology, we can advance not just science, but civilization as a whole.<p>
+<p>I plan to help others through the power of education and knowledge to yield equality, respect, and opportunities.<p>
  
 ### TECHNOLOGIES
 ![image](https://user-images.githubusercontent.com/119072440/220212033-21a418b7-3420-4b90-a285-6e392bb10692.png)
