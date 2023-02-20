@@ -1,6 +1,7 @@
 ### ABOUT
 ### GOALS
 ### TECHNOLOGIES
+JavaScript, Node.js, CSS, Pug, Python, HTML, Java, C, C++. C#
 ### SKILLS
 ### CONTACT INFO
 
