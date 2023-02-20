@@ -8,6 +8,7 @@ JavaScript, Node.js, CSS, Pug, TypeScript, Python, Tkinter, React.js, HTML, Expr
 ### SKILLS
 <p>Main Programming Languages: Javascript, Python and C<p>
 <p>Can speak: English, Portuguese, and Japanese<p>
+ 
 ### CONTACT INFO
 <p>https://www.linkedin.com/in/arthuralmeidadev/<p>
 <p>arthuralmeida.office.dev@gmail.com<p>
