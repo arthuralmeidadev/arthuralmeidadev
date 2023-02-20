@@ -10,6 +10,7 @@ Main Programming Languages: Javascript, Python and C
 Can speak: English, Portuguese, and Japanese
 ### CONTACT INFO
 https://www.linkedin.com/in/arthuralmeidadev/
+arthuralmeida.office.dev@gmail.com
 
 <!--
 **arthuralmeidadev/arthuralmeidadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
