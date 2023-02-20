@@ -1,9 +1,11 @@
 ### ABOUT
 I have solid knowledge of building web applications using Node Js and desktop applications using Tkinter py.
+I'm experienced with UX and have skills to work with art and graphic design.
 ### GOALS
 ### TECHNOLOGIES
 JavaScript, Node.js, CSS, Pug, TypeScript, Python, Tkinter, React.js, HTML, Express.js, Nest.js, Koa.js, JWT, Java, C, C++. C#
 ### SKILLS
+I can speak 3 languages: English, Portuguese, and Japanese
 ### CONTACT INFO
 
 <!--
