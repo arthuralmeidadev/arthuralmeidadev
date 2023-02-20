@@ -12,6 +12,9 @@
 ![image](https://user-images.githubusercontent.com/119072440/220212073-c71ecdd0-e955-421d-acd2-96a1ca67c443.png)
 ![image](https://user-images.githubusercontent.com/119072440/220212103-35bc1223-465f-45ae-81a6-00fcb26c6ec1.png)
 ![image](https://user-images.githubusercontent.com/119072440/220212242-6aa56888-d8c6-40f6-98a6-d5fbbd1dd2ce.png)
+![image](https://user-images.githubusercontent.com/119072440/220212604-843f55aa-0868-435a-95b5-d94402eaf380.png)
+![image](https://user-images.githubusercontent.com/119072440/220212748-d02ad4a1-3e4a-4d56-9dd7-ec2ec0762bbc.png)
+![image](https://user-images.githubusercontent.com/119072440/220212887-3ef6174a-13ba-4159-88e3-4202b108c305.png)
 
 <p>JavaScript, Node.js, CSS, Pug, TypeScript, Python, Tkinter<p>
 <p>React.js, HTML, Express.js, Nest.js, Koa.js, JWT, Java, C, C++. C#<p>
