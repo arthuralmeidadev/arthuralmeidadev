@@ -1,4 +1,5 @@
 ### ABOUT
+I have solid knowledge of building web applications using Node Js and desktop applications using Tkinter py.
 ### GOALS
 ### TECHNOLOGIES
 JavaScript, Node.js, CSS, Pug, TypeScript, Python, Tkinter, React.js, HTML, Express.js, Nest.js, Koa.js, JWT, Java, C, C++. C#
