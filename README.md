@@ -1,5 +1,5 @@
 ### ABOUT
-I have solid knowledge of building web applications using Node Js and desktop applications using Tkinter py.
+I have solid knowledge of building web applications using Node Js and desktop applications using Tkinter py.\n
 I'm experienced with UX and have skills to work with art and graphic design.
 ### GOALS
 I dream of using my skills to change the environment around me for the better. I believe with technology, we can advance not just science, but civilization as a whole. I plan to help others through the power of education and knowledge to yield equality, respect, and opportunities.
