@@ -8,6 +8,10 @@
 <p>I plan to help others through the power of education and knowledge to yield equality, respect, and opportunities.<p>
  
 ### TECHNOLOGIES
+![image](https://user-images.githubusercontent.com/119072440/220210941-8226ae3e-eb98-4f03-8079-fe636fcb450b.png)
+![image](https://user-images.githubusercontent.com/119072440/220210968-73884a71-8f79-4d68-ad22-96308d8481ad.png)
+![image](https://user-images.githubusercontent.com/119072440/220211049-af06e3a5-0fdb-494d-84be-436dd8384d81.png)
+
 <p>JavaScript, Node.js, CSS, Pug, TypeScript, Python, Tkinter<p>
 <p>React.js, HTML, Express.js, Nest.js, Koa.js, JWT, Java, C, C++. C#<p>
 
