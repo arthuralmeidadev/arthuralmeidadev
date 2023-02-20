@@ -8,7 +8,7 @@
 <p>I plan to help others through the power of education and knowledge to yield equality, respect, and opportunities.<p>
  
 ### TECHNOLOGIES
-![image](https://user-images.githubusercontent.com/119072440/220211590-204079de-48e1-436f-be32-545804c41117.png)
+![image](https://user-images.githubusercontent.com/119072440/220211944-f905f470-e638-45ad-8c23-9d06042180c5.png)
 ![image](https://user-images.githubusercontent.com/119072440/220211470-213cffce-e7ac-41f8-9f82-006e56ac69d2.png)
 ![image](https://user-images.githubusercontent.com/119072440/220211372-43d4e8e7-b6ac-4692-92dc-0c82633d6f13.png)
 
