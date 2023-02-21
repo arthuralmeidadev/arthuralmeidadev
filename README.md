@@ -15,7 +15,7 @@
 ![image](https://user-images.githubusercontent.com/119072440/220212604-843f55aa-0868-435a-95b5-d94402eaf380.png)
 ![image](https://user-images.githubusercontent.com/119072440/220212748-d02ad4a1-3e4a-4d56-9dd7-ec2ec0762bbc.png)
 ![image](https://user-images.githubusercontent.com/119072440/220212887-3ef6174a-13ba-4159-88e3-4202b108c305.png)
-![googleclouddevelopment](https://user-images.githubusercontent.com/119072440/220377670-16c91b9f-de0d-4ae3-9c41-7743fef61844.png)
+![image](https://user-images.githubusercontent.com/119072440/220378401-a22f0bb7-366f-4168-8644-20219f688466.png)
 
 <p>JavaScript, Node.js, CSS, Pug, TypeScript, Python, Tkinter, Express.js<p>
 <p>React.js, HTML, Nest.js, Koa.js, JWT, Java, C, C++, C#, Google Cloud<p>
