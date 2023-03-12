@@ -1,11 +1,6 @@
-<h1>ME</h1>
-I have solid knowledge of building web applications using Node Js and desktop applications using Tkinter py.
-I'm experienced with UX and have skills to work with art and graphic design.
- 
-<h2>GOALS</h2>
-I dream of using my skills to change the environment around me for the better.
-I believe with technology, we can advance not just science, but civilization as a whole.
-I plan to help others through the power of education and knowledge to yield equality, respect, and opportunities.
+| | |
+|--|--|
+| <h1>ME</h1> I have solid knowledge of building web applications using Node Js and desktop applications using Tkinter py. I'm experienced with UX and have skills to work with art and graphic design. | <h2>GOALS</h2> I dream of using my skills to change the environment around me for the better. I believe with technology, we can advance not just science, but civilization as a whole. I plan to help others through the power of education and knowledge to yield equality, respect, and opportunities.|
  
 <h2>TECNOLOGIES</h2>
 <div style="diplay: flex; column-gap: 10%; justify-content: center;">
