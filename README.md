@@ -1,7 +1,5 @@
-| | |
+|<h1>ME</h1> I have solid knowledge of building web applications using Node Js and desktop applications using Tkinter py. I'm experienced with UX and have skills to work with art and graphic design.| <h2>GOALS</h2> <p> I dream of using my skills to change the environment around me for the better. I believe with technology, we can advance not just science, but civilization as a whole. I plan to help others through the power of education and knowledge to yield equality, respect, and opportunities.</p>|
 |--|--|
-| <h1>ME</h1> I have solid knowledge of building web applications using Node Js and desktop applications using Tkinter py. I'm experienced with UX and have skills to work with art and graphic design. | <h2>GOALS</h2> I dream of using my skills to change the environment around me for the better. I believe with technology, we can advance not just science, but civilization as a whole. I plan to help others through the power of education and knowledge to yield equality, respect, and opportunities.|
- 
 <h2>TECNOLOGIES</h2>
 <div style="diplay: flex; column-gap: 10%; justify-content: center;">
  <img class="js" src=https://user-images.githubusercontent.com/119072440/220212033-21a418b7-3420-4b90-a285-6e392bb10692.png style="width: 40px"></img>
@@ -21,5 +19,6 @@
 <p>Can speak: English, Portuguese, and Japanese<p>
  
 ### CONTACT INFO
-[Linkedin](https://www.linkedin.com/in/arthuralmeidadev)
-[E-mail](arthuralmeida.office.dev@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthuralmeidadev)
+[![linkedin](https://img.shields.io/badge/Email-208f9f?style=for-the-badge&logo=gmail&logoColor=white)](arthuralmeida.office.dev@gmail.com)
+[![linkedin](https://img.shields.io/badge/Instagram-9a12cf?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/abraao.arthur01)
