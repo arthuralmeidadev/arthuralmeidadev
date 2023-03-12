@@ -9,7 +9,7 @@
  
 
 <h2> TECNOLOGIES </h2>
-<div style="diplay: inline-block; column-gap: 10%; width: 10%">
+<div style="diplay: inline-block; column-gap: 10%; size: 10%">
  <img src=https://user-images.githubusercontent.com/119072440/220212033-21a418b7-3420-4b90-a285-6e392bb10692.png></img>
  <img src=https://user-images.githubusercontent.com/119072440/220212073-c71ecdd0-e955-421d-acd2-96a1ca67c443.png></img>
  <img src=https://user-images.githubusercontent.com/119072440/220212103-35bc1223-465f-45ae-81a6-00fcb26c6ec1.png></img>
