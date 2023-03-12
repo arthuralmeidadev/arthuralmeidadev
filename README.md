@@ -25,8 +25,8 @@
 <p>Can speak: English, Portuguese, and Japanese<p>
  
 ### CONTACT INFO
-[https://www.linkedin.com/in/arthuralmeidadev]
-[arthuralmeida.office.dev@gmail.com]
+[Linkedin](https://www.linkedin.com/in/arthuralmeidadev)
+[E-mail](arthuralmeida.office.dev@gmail.com)
 
 <!--
 **arthuralmeidadev/arthuralmeidadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
