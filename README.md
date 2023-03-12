@@ -7,8 +7,8 @@
 <p>I believe with technology, we can advance not just science, but civilization as a whole.<p>
 <p>I plan to help others through the power of education and knowledge to yield equality, respect, and opportunities.<p>
  
-### TECHNOLOGIES
 
+<h2> TECNOLOGIES </h2>
 <div style="diplay: inline-block">
  <img src=https://user-images.githubusercontent.com/119072440/220212033-21a418b7-3420-4b90-a285-6e392bb10692.png></img>
  <img src=https://user-images.githubusercontent.com/119072440/220212073-c71ecdd0-e955-421d-acd2-96a1ca67c443.png></img>
