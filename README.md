@@ -1,4 +1,4 @@
-|<h1>ME</h1> I have solid knowledge of building web applications using Node Js and desktop applications using Tkinter py. I'm experienced with UX and have skills to work with art and graphic design.| <h2>GOALS</h2> <p> I dream of using my skills to change the environment around me for the better. I believe with technology, we can advance not just science, but civilization as a whole. I plan to help others through the power of education and knowledge to yield equality, respect, and opportunities.</p>|
+|<h1>ME</h1> I have solid knowledge of building web applications using Node Js and desktop applications using Tkinter py. I'm experienced with UX and have skills to work with art and graphic design. [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthuralmeidadev&theme=codeSTACKr)](https://github.com/athuralmeidadev/github-readme-stats)| <h2>GOALS</h2> <p> I dream of using my skills to change the environment around me for the better. I believe with technology, we can advance not just science, but civilization as a whole. I plan to help others through the power of education and knowledge to yield equality, respect, and opportunities.</p>|
 |--|--|
 <h2>TECNOLOGIES</h2>
 <div style="diplay: inline-block; column-gap: 30px">
@@ -8,8 +8,8 @@ JavaScript, Node.js, CSS, Pug, TypeScript, Python, Tkinter, Express.js
 React.js, HTML, Nest.js, Koa.js, JWT, Java, C, C++, C#, Google Cloud
 
 <h2>🛠 SKILLS</h2>
-<p>Main Programming Languages: Javascript, Python and C<p>
-<p>Can speak: English, Portuguese, and Japanese<p>
+<p>Main Programming Languages: Javascript, Python and C</p>
+<p>Can speak: English, Portuguese, and Japanese</p>
  
 ### CONTACT INFO
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthuralmeidadev)
