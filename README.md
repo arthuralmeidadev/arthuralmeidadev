@@ -1,13 +1,13 @@
-### ABOUT
-<p>I have solid knowledge of building web applications using Node Js and desktop applications using Tkinter py.<p>
-<p>I'm experienced with UX and have skills to work with art and graphic design.<p>
+<h1>ME</h1>
+I have solid knowledge of building web applications using Node Js and desktop applications using Tkinter py.
+I'm experienced with UX and have skills to work with art and graphic design.
  
-### GOALS
-<p>I dream of using my skills to change the environment around me for the better.<p>
-<p>I believe with technology, we can advance not just science, but civilization as a whole.<p>
-<p>I plan to help others through the power of education and knowledge to yield equality, respect, and opportunities.<p>
+<h2>GOALS</h2>
+I dream of using my skills to change the environment around me for the better.
+I believe with technology, we can advance not just science, but civilization as a whole.
+I plan to help others through the power of education and knowledge to yield equality, respect, and opportunities.
  
-<h2> TECNOLOGIES </h2>
+<h2>TECNOLOGIES</h2>
 <div style="diplay: flex; column-gap: 10%; justify-content: center;">
  <img class="js" src=https://user-images.githubusercontent.com/119072440/220212033-21a418b7-3420-4b90-a285-6e392bb10692.png style="width: 40px"></img>
  <img src=https://user-images.githubusercontent.com/119072440/220212073-c71ecdd0-e955-421d-acd2-96a1ca67c443.png style="width: 40px"></img>
@@ -28,18 +28,3 @@
 ### CONTACT INFO
 [Linkedin](https://www.linkedin.com/in/arthuralmeidadev)
 [E-mail](arthuralmeida.office.dev@gmail.com)
-
-<!--
-**arthuralmeidadev/arthuralmeidadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
