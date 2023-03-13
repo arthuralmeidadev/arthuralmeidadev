@@ -4,7 +4,7 @@
 # PROJECTS
  
 ### SOCIALS
-[![linkedin](https://img.shields.io/badge/linkedin-arthuralmdeidadev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthuralmeidadev)
+[![linkedin](https://img.shields.io/badge/arthuralmdeidadev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthuralmeidadev)
 [![linkedin](https://img.shields.io/badge/Personal-abraao.arthur01-9a12cf?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/abraao.arthur01)
 [![linkedin](https://img.shields.io/badge/ArtPage-arthurisanartist-9a12cf?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/abraao.arthur01)
 <!--[![linkedin](https://img.shields.io/badge/Email-208f9f?style=for-the-badge&logo=gmail&logoColor=white)](arthuralmeida.office.dev@gmail.com)-->
