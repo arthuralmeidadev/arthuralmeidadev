@@ -11,7 +11,9 @@
 
 ### TECHNOLOGIES
 
-<font size="1"> **Node.js Express.js Koa.js MongoDB MySQL Postgres Sequelize JsonWebTokens GoogleCloud React.js Tensorflow Tkinter OpenCV Pillow HTML CSS Javascript/Typescript Python C C# C++ Java Rust** </font>
+<font size="1"> **Node.js, Express.js, Koa.js, MongoDB, MySQL, Postgres, <br>
+Sequelize, JsonWebTokens, GoogleCloud, React.js, Tensorflow, Tkinter, OpenCV, Pillow, <br>
+HTML, CSS, Javascript/Typescript, Python, C, C#, C++, Java, Rust** </font>
 
 ### SOCIALS
 [![linkedin](https://img.shields.io/badge/arthuralmdeidadev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthuralmeidadev)
