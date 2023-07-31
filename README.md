@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my profile 👋, I'm Arthur</h1>
-<h3 align="center">Brazilian back-end software engineer</h3>
+<h3 align="center">Brazilian software engineer</h3>
 
 <p>&nbsp;<img align="center" height="210px" src="https://user-images.githubusercontent.com/119072440/232785591-7495b0ec-4d80-4616-9b59-fa075ddcbf2a.png"/></p>
 
