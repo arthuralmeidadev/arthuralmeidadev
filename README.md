@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my profile 👋, I'm Arthur</h1>
-<h3 align="center">Brazilian software engineer</h3>
+<h3 align="center">Software engineer</h3>
 
 Highly competent developer with experience in web services, data querying and manipulation, libraries and internal tooling, TCP protocols, cloud services, and DevOps. I am also responsible for the design, planning, and implementation of effective security and authentication systems for various applications.
 
